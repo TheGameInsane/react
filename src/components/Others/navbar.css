@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+
+.username {
+    color: whitesmoke;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+.Brand {
+    font-family: 'Pacifico', cursive;
+    text-decoration: none;
+}
+
+.avatar {
+    border-radius: 50%;
+    float: left;
+    padding-right: 3%;
+}
